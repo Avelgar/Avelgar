@@ -2,8 +2,9 @@
 <h3 align="center">Full-Stack Разработчик из России</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python%2FGo+Бэкенд;Vue.js%2FReact+Фронтенд;DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python%2FGo+Backend;Vue.js%2FReact+Frontend;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
+
 
 ---
 
