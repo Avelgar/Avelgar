@@ -52,10 +52,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirilltsyganov&show_icons=true&theme=react&hide_border=true&count_private=true&locale=ru" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Avelgar&show_icons=true&theme=react&hide_border=true&count_private=true&locale=ru" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilltsyganov&layout=compact&theme=react&hide_border=true&langs_count=8&locale=ru" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avelgar&layout=compact&theme=react&hide_border=true&langs_count=8&locale=ru" />
   </a>
 </p>
 
@@ -66,8 +66,8 @@
 Мы готовы воплотить ваши идеи в жизнь. Наша команда идеально подходит для создания MVP, корпоративных порталов, API и других веб-приложений.
 
 **Ключевые условия и цены:**
-*   Мы берем проекты с четким ТЗ или работаем по помесячной оплате.
-*   Стоимость проекта: **от 120 000 руб.** (фиксированная цена) или **от 120 000 руб./мес.**
+*   Мы берем проекты с четким ТЗ.
+*   Стоимость проекта: **от 12 000 руб.**
 *   Мы особенно сильны в проектах, где используется готовый дизайн или UI-библиотеки.
 
 <p align="center">
@@ -82,5 +82,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirilltsyganov&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="kirilltsyganov" />
+  <img src="https://komarev.com/ghpvc/?username=Avelgar&label=Profile%20views&color=0e75b6&style=flat" alt="Avelgar" />
 </p>
