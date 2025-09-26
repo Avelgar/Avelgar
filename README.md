@@ -10,11 +10,11 @@
 
 ### 👨‍💻 Обо мне и моей команде
 
-Я — участник сплоченной команды разработчиков. Мы специализируемся на создании полнофункциональных веб-приложений под ключ — от идеи до запуска на сервере.
+Я — фулл-стек разработчик сплоченной команды разработчиков. Я специализируюсь на создании полнофункциональных веб-приложений под ключ — от идеи до запуска на сервере.
 
 *   **Наш технологический стек:**
-    *   **Фронтенд:** HTML, CSS, JavaScript, Vue.js, React
-    *   **Бэкенд:** Python (FastAPI, Django), Go
+    *   **Фронтенд:** HTML, CSS, JavaScript, Vue.js
+    *   **Бэкенд:** Python (FastAPI), Go
     *   **Базы данных:** PostgreSQL, MySQL
     *   **DevOps:** Linux, Nginx, развертывание и настройка серверов
 
@@ -32,12 +32,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Бэкенд:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Базы данных и DevOps:**
