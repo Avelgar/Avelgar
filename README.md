@@ -71,10 +71,10 @@
 *   Мы особенно сильны в проектах, где используется готовый дизайн или UI-библиотеки.
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kirill.tsyganov@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/aatroxlmao">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
