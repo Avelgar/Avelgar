@@ -1,5 +1,5 @@
 <h1 align="center">Всем привет! 👋 Меня зовут Кирилл Цыганов</h1>
-<h3 align="center">Full-Stack WEB Разработчик из России</h3>
+<h3 align="center">Backend Разработчик из России</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+(FastAPI)%2FGo+Backend;DevOps+Enthusiast" alt="Typing SVG" />
