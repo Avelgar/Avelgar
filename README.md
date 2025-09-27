@@ -2,24 +2,18 @@
 <h3 align="center">Full-Stack WEB Разработчик из России</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python%2FGo+Backend;Vue.js+Frontend;DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+(FastAPI)%2FGo+Backend;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 
 ---
 
 ### 👨‍💻 Обо мне
-Я учусь в РТУ МИРЭА на фуллстек разработчика. Специализируюсь на создании полнофункциональных веб-приложений под ключ — от идеи до запуска на сервере.
+Я учусь в РТУ МИРЭА на фуллстек разработчика. Специализируюсь на создании полнофункциональных веб-приложений под ключ командой — от идеи до запуска на сервере.
 
 ---
 
 ### 🛠 Технологии и инструменты
-
-**Фронтенд:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 **Бэкенд:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
