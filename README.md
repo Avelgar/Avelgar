@@ -31,18 +31,18 @@
 
 ### 🚀 Мои проекты
 
-**2.1 Friday - Голосовой помощник**  
+**1 Friday - Голосовой помощник**  
 *Мультиплатформенный голосовой ассистент с поддержкой 3 типов устройств*
 - 🌐 **Веб-версия**: [Friday Assistant](https://friday-assistant.ru/) | 📂 [GitHub](https://github.com/Avelgar/friday-server)
 - 📱 **Android**: [GitHub](https://github.com/Avelgar/FridayAndroid)
 - 💻 **Windows**: [GitHub](https://github.com/Avelgar/FRIDAY)
 
-**2.2 Speech Recognition Bot**  
+**2 Speech Recognition Bot**  
 *Телеграмм бот для распознавания речи из голосовых сообщений и видео*
 - 🤖 [@Cool_Speech_To_Text_Bot](https://t.me/Cool_Speech_To_Text_Bot)
 - 📂 [GitHub](https://github.com/Avelgar/Speech-recognition-bot)
 
-**2.3 CoinTracker**  
+**3 CoinTracker**  
 *Сайт для прогнозирования курсов криптовалют*
 - 📂 [GitHub](https://github.com/Avelgar/CoinTracker)
   
