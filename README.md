@@ -32,6 +32,10 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+---
+
+### Мои проекты
 ---
 
 ### 📊 Статистика GitHub
@@ -44,10 +48,6 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avelgar&layout=compact&theme=react&hide_border=true&langs_count=8&locale=ru" />
   </a>
 </p>
-
----
-
-### Мои проекты
 
 
 ---
