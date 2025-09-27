@@ -52,6 +52,9 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Avelgar&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avelgar&layout=compact&hide_border=true&langs_count=8" />
   </a>
 </p>
