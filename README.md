@@ -34,17 +34,22 @@
 - 🌐 **Веб-версия**: [Friday Assistant](https://friday-assistant.ru/) | 📂 [GitHub](https://github.com/Avelgar/friday-server)
 - 📱 **Android**: [GitHub](https://github.com/Avelgar/FridayAndroid)
 - 💻 **Windows**: [GitHub](https://github.com/Avelgar/FRIDAY)
+- 🍓 **Raspberry PI** [GitHub](https://github.com/Avelgar/FridayRaspberry)
 
-**2 CoinTracker**  
+**2 Юзербот Олег**
+*Телеграмм юзербот для общение с Gemini"
+- 📂 [GitHub](https://github.com/Avelgar/OlegUserBot)
+
+**3 CoinTracker**  
 *Сайт для прогнозирования курсов криптовалют*
 - 📂 [GitHub](https://github.com/Avelgar/CoinTracker)
 
-**3 Speech Recognition Bot**  
+**4 Speech Recognition Bot**  
 *Телеграмм бот для распознавания речи из голосовых сообщений и видео*
 - 🤖 [@Cool_Speech_To_Text_Bot](https://t.me/Cool_Speech_To_Text_Bot)
 - 📂 [GitHub](https://github.com/Avelgar/Speech-recognition-bot)
 
-**4 Telegram Monitoring Bot System**  
+**5 Telegram Monitoring Bot System**  
 *UserBot - отслеживает сообщения в Telegram на основе заданных критериев*  
 *ConfigBot - принимает уведомления и предоставляет интерфейс для настройки*
 - 📂 [GitHub](https://github.com/Avelgar/Telegram-Monitoring-Bot-System)
