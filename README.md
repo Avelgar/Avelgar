@@ -37,7 +37,6 @@
 - 🍓 **Raspberry PI** [GitHub](https://github.com/Avelgar/FridayRaspberry)
 
 **2 Юзербот Олег**
-
 *Телеграмм юзербот для общения с Gemini*
 - 📂 [GitHub](https://github.com/Avelgar/OlegUserBot)
 
