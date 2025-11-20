@@ -32,9 +32,9 @@
 **1 Friday - Голосовой помощник**  
 *Мультиплатформенный голосовой ассистент с поддержкой 3 типов устройств*
 - 🌐 **Веб-версия**: [Friday Assistant](https://friday-assistant.ru/) | 📂 [GitHub](https://github.com/Avelgar/friday-server)
-- 📱 **Android**: [GitHub](https://github.com/Avelgar/FridayAndroid)
-- 💻 **Windows**: [GitHub](https://github.com/Avelgar/FRIDAY)
-- 🍓 **Raspberry PI** [GitHub](https://github.com/Avelgar/FridayRaspberry)
+- 📱 **Android**: 📂 [GitHub](https://github.com/Avelgar/FridayAndroid)
+- 💻 **Windows**: 📂 [GitHub](https://github.com/Avelgar/FRIDAY)
+- 🍓 **Raspberry PI** 📂 [GitHub](https://github.com/Avelgar/FridayRaspberry)
 
 **2 Юзербот Олег**    
 *Телеграмм юзербот для общения с Gemini*
