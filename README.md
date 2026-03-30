@@ -27,6 +27,9 @@
 
 ---
 
+### 📈 Мой путь (Roadmap)
+
+```mermaid
 gantt
     title Проектный Роадмап (2024-2026)
     dateFormat  YYYY-MM
@@ -53,6 +56,9 @@ gantt
     Kotlin Курсовая          :p14, 2026-02, 1M
     VPN (vless/reality)      :p15, 2026-03, 1M
     WB & Shop Bots (Go)      :active, p16, 2026-03, 1M
+```
+
+---
 
 ### 🚀 Мои проекты
 
