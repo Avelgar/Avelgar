@@ -30,32 +30,50 @@
 ### 📈 Мой путь (Roadmap)
 
 ```mermaid
-gantt
-    title Проектный Роадмап (2024-2026)
-    dateFormat  YYYY-MM
-    axisFormat  %m/%y
+graph TD
+    classDef default fill:#2a2a2a,stroke:#ccc,stroke-width:1px,color:#fff,rx:10,ry:10,text-align:center;
+    classDef active fill:#a2d9ff,stroke:#333,stroke-width:2px,color:#000,rx:10,ry:10,text-align:center;
+    classDef cluster fill:#1a1a1a,stroke:#444,stroke-width:2px,color:#fff,rx:15,ry:15;
 
-    section 2024: Основы и C++
-    Python (Вышка)           :active, p1, 2024-01, 1M
-    C++ Решатель (МИРЭА)     :p2, 2024-03, 3M
-    C++ ООП и Libs           :p3, 2024-06, 3M
-    Reminder (JS/Node)       :p4, 2024-09, 4M
+    subgraph Year2024 ["📅 2024: Основы и C++"]
+        direction TB
+        p1[🐍 Python (Вышка)]:::active
+        p2(➕➕ C++ Решатель МИРЭА)
+        p3(➕➕ C++ ООП и Libs)
+        p4(🕸️ Reminder JS/Node)
+    end
 
-    section 2025: Веб, Мобайл и "Пятница"
-    Cointracker (Go/Vue)     :p5, 2024-12, 6M
-    Пятница (Win/Android)    :p6, 2025-03, 3M
-    Пятница (VPS/Nginx)      :p7, 2025-07, 4M
-    Боты (SIP/Voice/User)    :p8, 2025-09, 3M
-    Курсовая (Arch/Chess)    :p9, 2025-11, 1M
-    Ozon Filter/Hackathon    :p10, 2025-11, 1M
-    Магазин (Job)            :p11, 2025-12, 1M
+    subgraph Year2025 ["📅 2025: Веб, Мобайл и 'Пятница'"]
+        direction TB
+        p5(🚀 Cointracker Go/Vue)
+        p6(🍉 Пятница Win/Android)
+        
+        subgraph Para2025 ["🔄 Параллельные проекты (сент-дек)"]
+            direction LR
+            p7(🌐 Пятница VPS/Nginx)
+            p8(🤖 Боты SIP/Voice/User)
+            p9(📚 Курсовая Arch/Chess)
+            p10(🛒 Ozon Filter/Hackathon)
+        end
+        
+        p11(💼 Магазин Job)
+    end
 
-    section 2026: Дипломы и Системы
-    Медицинское App (Flutter):p12, 2025-12, 3M
-    Raspberry Pi Робот       :active, p13, 2026-01, 3M
-    Kotlin Курсовая          :p14, 2026-02, 1M
-    VPN (vless/reality)      :p15, 2026-03, 1M
-    WB & Shop Bots (Go)      :active, p16, 2026-03, 1M
+    subgraph Year2026 ["📅 2026: Дипломы и Системы"]
+        direction TB
+        p12(📱 Медицинское App Flutter)
+        p13[🍓 Raspberry Pi Робот]:::active
+        p14(📚 Kotlin Курсовая)
+        p15(🔐 VPN vless/reality)
+        p16[🛍️ WB & Shop Bots Go]:::active
+    end
+
+    %% Связи для визуальной последовательности
+    Year2024 -.-> Year2025
+    Year2025 -.-> Year2026
+
+    %% Применение стилей к подграфам
+    class Year2024,Year2025,Year2026,Para2025 cluster;
 ```
 
 ---
