@@ -27,6 +27,33 @@
 
 ---
 
+gantt
+    title Проектный Роадмап (2024-2026)
+    dateFormat  YYYY-MM
+    axisFormat  %m/%y
+
+    section 2024: Основы и C++
+    Python (Вышка)           :active, p1, 2024-01, 1M
+    C++ Решатель (МИРЭА)     :p2, 2024-03, 3M
+    C++ ООП и Libs           :p3, 2024-06, 3M
+    Reminder (JS/Node)       :p4, 2024-09, 4M
+
+    section 2025: Веб, Мобайл и "Пятница"
+    Cointracker (Go/Vue)     :p5, 2024-12, 6M
+    Пятница (Win/Android)    :p6, 2025-03, 3M
+    Пятница (VPS/Nginx)      :p7, 2025-07, 4M
+    Боты (SIP/Voice/User)    :p8, 2025-09, 3M
+    Курсовая (Arch/Chess)    :p9, 2025-11, 1M
+    Ozon Filter/Hackathon    :p10, 2025-11, 1M
+    Магазин (Job)            :p11, 2025-12, 1M
+
+    section 2026: Дипломы и Системы
+    Медицинское App (Flutter):p12, 2025-12, 3M
+    Raspberry Pi Робот       :active, p13, 2026-01, 3M
+    Kotlin Курсовая          :p14, 2026-02, 1M
+    VPN (vless/reality)      :p15, 2026-03, 1M
+    WB & Shop Bots (Go)      :active, p16, 2026-03, 1M
+
 ### 🚀 Мои проекты
 
 **1 Friday - Голосовой помощник**  
