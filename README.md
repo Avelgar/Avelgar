@@ -38,43 +38,48 @@ graph TD
     subgraph Year2024 ["📅 2024: Основы и C++"]
         direction TB
         p1["Python (Вышка) Январь"]
-        p2("C++ Курсовая Решатель (МИРЭА) март - май")
+        p2("C++ Решатель (МИРЭА) март - май")
         p3("C++ ООП и библиотеки июнь-август")
-        p4("JS + NodeJs Курсовая Reminder сентябрь-декабрь")
+        p4("JS + NodeJs Reminder сентябрь-декабрь")
+        
+        p1 --> p2 --> p3 --> p4
     end
 
     subgraph Year2025 ["📅 2025: Веб, Мобайл и 'Пятница'"]
         direction TB
-        p5("Go + Vue Курсовая Cointracker январь-май")
-        p6("Python + C# Курсовая Пятница Windows март-май"):::active
-        p7("Python + Java Курсовая Пятница Android март-май"):::active
-        p8("Python + Nginx Деплой сайта на VPS июль-октябрь")
+        p5("Go + Vue Cointracker январь-май")
+        p6("Python + C# Пятница Win март-май"):::active
+        p7("Python + Java Пятница Android март-май"):::active
+        p8("Python + Nginx Деплой на VPS июль-октябрь")
         p9("Python ТГ бот (STT) сентябрь")
         p10("Python Юзербот мониторинг сентябрь")
-        p11("Python Бот для телефонии (SIP) октябрь-ноябрь")
-        p12("VPN OpenVPN настройка ноябрь")
-        p13("Python + JS Курсовая по архитектуре ноябрь")
-        p14("Python + JS Шахматы против Gemma ноябрь")
-        p15("JS Расширение Ozon Filter ноябрь")
+        p11("Python SIP бот октябрь-ноябрь")
+        p12("VPN OpenVPN ноябрь")
+        p13("Python + JS Курсовая ноябрь")
+        p14("Python + JS Шахматы vs Gemma ноябрь")
+        p15("JS Ozon Filter ноябрь")
         p16("Python + JS Хакатон МАИ ноябрь")
         p17("Python + JS Магазин товаров декабрь")
         p18("Python + Dart Диплом (начало) декабрь")
+
+        p5 --> p6 --> p7 --> p8 --> p9 --> p10 --> p11 --> p12 --> p13 --> p14 --> p15 --> p16 --> p17 --> p18
     end
 
-    subgraph Year2026 ["📅 2026: Дипломы и Сложные системы"]
+    subgraph Year2026 ["📅 2026: Дипломы и Системы"]
         direction TB
         p19("Python + Dart Диплом Flutter январь-февраль")
         p20["Python + Raspberry Pi робот январь - март"]:::active
         p21("Python + Kotlin Курсовая февраль")
-        p22("VPN vless/reality + Yandex Cloud март"):::active
+        p22("VPN vless/reality + Яндекс март"):::active
         p23["Golang ТГ бот Wildberries март"]:::active
+
+        p19 --> p20 --> p21 --> p22 --> p23
     end
 
-    %% Связи между этапами
-    Year2024 -.-> Year2025
-    Year2025 -.-> Year2026
+    %% Соединение годов в одну линию
+    p4 --> p5
+    p18 --> p19
 
-    %% Применение стилей к контейнерам
     class Year2024,Year2025,Year2026 cluster;
 ```
 
