@@ -37,35 +37,37 @@ graph TD
 
     subgraph Year2024 ["📅 2024: Основы и C++"]
         direction TB
-        p1["🐍 Python (Вышка)"]:::active
-        p2("➕➕ C++ Решатель МИРЭА")
-        p3("➕➕ C++ ООП и Libs")
-        p4("🕸️ Reminder JS/Node")
+        p1["Python (Вышка) Январь"]
+        p2("C++ Курсовая Решатель (МИРЭА) март - май")
+        p3("C++ ООП и Libs" июнь-август")
+        p4("JS + NodeJs Курсовая Reminder сентябрь-декабрь")
     end
 
     subgraph Year2025 ["📅 2025: Веб, Мобайл и 'Пятница'"]
         direction TB
-        p5("🚀 Cointracker Go/Vue")
-        p6("🍉 Пятница Win/Android")
-        
-        subgraph Para2025 ["🔄 Параллельные проекты (сент-дек)"]
-            direction LR
-            p7("🌐 Пятница VPS/Nginx")
-            p8("🤖 Боты SIP/Voice/User")
-            p9("📚 Курсовая Arch/Chess")
-            p10("🛒 Ozon Filter/Hackathon")
-        end
-        
-        p11("💼 Магазин Job")
+        p5("Go + Vue Курсовая Cointracker январь-май")
+        p6("Python + C# Курсовая Пятница Windows март-май"):::active
+        p7("Python + Java Курсовая Пятница Android март-май"):::active
+        p8("Python + Nginx Первый раз поставил сайт на vps и домен июль-октябрь")
+        p9("Python тг бот для преевода голосовых в текст сентябрь")
+        p10("Python Юзербот для мониторинга сообщений сентябрь")
+        p11("Python Первая работа, телефонный бот октябрь-ноябрь")
+        p12("VPN Openvpn для обхода блокировок ноябрь")
+        p13("Python + JS Курсовая работа ноябрь")
+        p14("Python + JS Шахматы против геммы ноябрь")
+        p15("JS - Расширение озон фильтр ноябрь")
+        p16("Python + JS Участие в хакатоне МАИ ноябрь")
+        p17("Python + JS Магазин товаров декабрь")
+        p18("Python + Dart Диплом на флаттере декабрь")
     end
 
-    subgraph Year2026 ["📅 2026: Дипломы и Системы"]
+    subgraph Year2026 ["📅 2026: Дипломы и Более сложные проекты"]
         direction TB
-        p12("📱 Медицинское App Flutter")
-        p13["🍓 Raspberry Pi Робот"]:::active
-        p14("📚 Kotlin Курсовая")
-        p15("🔐 VPN vless/reality")
-        p16["🛍️ WB & Shop Bots Go"]:::active
+        p19("Python + Dart Диплом на флаттере январь-февраль")
+        p20["Python + Raspberry Pi робот январь - март"]:::active
+        p21("Python + Kotlin курсовая работа на котлине февраль")
+        p22("VPN vless/reality проксирование через Яндекс март"):::active
+        p23["Golang тг бот для вайлдбериз март"]:::active
     end
 
     Year2024 -.-> Year2025
