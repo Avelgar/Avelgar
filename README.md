@@ -116,19 +116,6 @@ graph TD
 *Умное расширение для Google Chrome, которое очищает выдачу Ozon.ru от мусора*  
 - 📂 [GitHub](https://github.com/Avelgar/Ozon-Filter)
 
----
-
-### 📊 Статистика GitHub
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Avelgar&show_icons=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avelgar&layout=compact&hide_border=true&langs_count=8" />
-  </a>
-</p>
-
 
 ---
 ### 📞 Обсудим ваш проект?
@@ -145,7 +132,7 @@ graph TD
   <a href="mailto:kirill.tsyganov@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://t.me/aatroxlmao">
+  <a href="https://t.me/avelgar">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
